@@ -15,4 +15,4 @@ Please explain what metrics you used to determine this, what assumptions you mad
 Which sellers, if any, should be delisted from this platform?
 Please explain what metrics you used to determine this, what assumptions you made, etc.
 
-A Link to the tableau dashboard [here](https://public.tableau.com/app/profile/adebanwo.oluwatobi.john/viz/BIZOPSPRODUCTORDERDASHBOARD2018/Dashboard1)
+A Link to the tableau dashboard [here](https://public.tableau.com/app/profile/adebanwo.oluwatobi.john/viz/BIZOPSPRODUCTORDERDASHBOARD2018/Bizopsdashboard)
